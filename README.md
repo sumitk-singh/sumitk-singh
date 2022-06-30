@@ -1,4 +1,4 @@
-Hi 👋 My name is Sumit Kumar Singh
+Hi 👋 My name is Sumit Singh
 ==================================
 
 * 🎓  B-Tech in Electronics & Communication Engineering | 2014-18
