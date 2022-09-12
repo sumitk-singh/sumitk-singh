@@ -3,7 +3,7 @@ Hi 👋 My name is Sumit Singh
 
 * 🎓  B-Tech in Electronics & Communication Engineering | 2014-18
 * 🌍  I'm based in India
-* ✉️  You can contact me at [sumititwan@gmail.com](mailto:sumit325029@gmail.com)
+* ✉️  You can contact me at [sumit325029@gmail.com](mailto:sumit325029@gmail.com)
 * 🧠  I'm learning Frontend Web app development in neoG22
 
 <a href="https://www.twitter.com/sumitsi79994403" target="_blank" rel="noreferrer"><img
