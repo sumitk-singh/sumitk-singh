@@ -1,7 +1,7 @@
 Hi 👋 My name is Sumit Singh
 ==================================
 
-* 🎓  B-Tech in Electronics & Communication Engineering | 2014-18
+* 🎓  B-Tech | Electronics & Communication Engineering | 2014-18
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sumit325029@gmail.com](mailto:sumit325029@gmail.com)
 * 🧠  I'm learning Frontend Web app development in neoG22
