@@ -1,13 +1,12 @@
 Hi 👋 My name is Sumit Singh
 ==================================
 
-* 🎓  B-Tech | Electronics & Communication Engineering | 2014-18
+* 🎓  PGD in Project Management | B-Tech | Electronics & Communication Engineering 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sumit325029@gmail.com](mailto:sumit325029@gmail.com)
 * 🧠  Business Analytics
 
 
-### Badges
 
 <b>My GitHub Stats</b>
 
