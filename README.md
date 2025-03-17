@@ -3,7 +3,7 @@ Hi 👋 My name is Sumit Singh
 
 * 🎓  PGD in Project Management | B-Tech | Electronics & Communication Engineering 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [sumit325029@gmail.com](mailto:sumit325029@gmail.com)
+* ✉️  You can contact me at [sumititwan@gmail.com](mailto:sumititwan@gmail.com)
 * 🧠  Business Analytics
 
 
