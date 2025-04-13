@@ -1,11 +1,7 @@
-Hi 👋 My name is Sumit Singh
-==================================
-
-* 🎓  PGD in Project Management | B-Tech | Electronics & Communication Engineering 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [sumititwan@gmail.com](mailto:sumititwan@gmail.com)
-* 🧠  MIS & Data Analytics | Salesforce CRM | Advanced Excel | SQL | Power BI | Turning Data into Insights
-
+👋 Hi, I'm Sumit Singh
+🎓 PGDPM from Symbiosis | B.Tech in Electronics & Communication Engineering
+🌍 Based in India
+✉️ Reach me at: sumititwan@gmail.com
 
 
 <b>My GitHub Stats</b>
