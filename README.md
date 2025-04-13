@@ -1,8 +1,8 @@
 👋 Hi, I'm Sumit Singh
 =========================
-🎓 PGDPM from Symbiosis | B.Tech in Electronics & Communication Engineering
-🌍 Based in India
-✉️ Reach me at: sumititwan@gmail.com
+* 🎓 PGDPM from Symbiosis | B.Tech in Electronics & Communication Engineering
+* 🌍 Based in India
+* ✉️ Reach me at: sumititwan@gmail.com
 
 
 <b>My GitHub Stats</b>
